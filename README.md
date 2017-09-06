@@ -1,5 +1,8 @@
 # MyBooklist
-Books which I am going to read.
+List of high value books (in matters of: learning, personal growth). Feel free to [contribute](contributing.md).
+
+Languages: German, English, Turkish
+
 
 # Books
 
