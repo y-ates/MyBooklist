@@ -34,5 +34,5 @@ Languages: German, English, Turkish
 ## Strategy, Decision Making
 
 
-## Novel
+## Other
 
