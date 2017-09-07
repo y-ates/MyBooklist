@@ -10,6 +10,7 @@ Languages: German, English, Turkish
 ## Math
 - [x] Elementare und Algebraische Zahlentheorie [Link](https://www.amazon.de/gp/product/3834812560/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3834812560&linkCode=as2&tag=yakupates-21&linkId=475c5584544049a7f2be580dcc2deb57)
 - [ ] Theoretische Informatik - kurz gefasst [Link](http://amzn.to/2xQOBsr)
+- [ ] The Block Cipher Companion (Information Security and Cryptography) [Link](http://amzn.to/2wJhkRs)
 
 
 ## Philosophy
