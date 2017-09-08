@@ -29,7 +29,6 @@ Languages: German, English, Turkish
 
 
 ## Engineering, Programming
-
 - [x] C++ von A bis Z: Das umfassende Handbuch (Galileo Computing) [Link](http://amzn.to/2j9L98Z)
 - [x] PHP 7 und MySQL: Von den Grundlagen bis zur professionellen Programmierung [Link](http://amzn.to/2j9Z3bf)
 
