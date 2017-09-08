@@ -32,6 +32,7 @@ Languages: German, English, Turkish
 - [x] C++ von A bis Z: Das umfassende Handbuch (Galileo Computing) [Link](http://amzn.to/2j9L98Z)
 - [x] Hacking: Die Kunst des Exploits [Link](http://amzn.to/2eTVzZ7)
 - [x] PHP 7 und MySQL: Von den Grundlagen bis zur professionellen Programmierung [Link](http://amzn.to/2j9Z3bf)
+- [x] Understanding Cryptography: A Textbook for Students and Practitioners [Link](http://amzn.to/2xV0zkL)
 
 
 ## Personal Growth
