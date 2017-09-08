@@ -30,6 +30,7 @@ Languages: German, English, Turkish
 
 ## Engineering, Programming
 
+- [x] C++ von A bis Z: Das umfassende Handbuch (Galileo Computing) [Link](http://amzn.to/2j9L98Z)
 
 ## Personal Growth
 - [x] NLP - das WorkBook [Link](https://www.amazon.de/gp/product/3935767579/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3935767579&linkId=748dc27304d220905f40de8e196d053f)
