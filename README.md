@@ -40,6 +40,7 @@ Languages: German, English, Turkish
 
 ## Personal Growth
 - [ ] Die 7 Wege zur Effektivität: Prinzipien für persönlichen und beruflichen Erfolg [Link](http://amzn.to/2y12mVC)
+- [ ] Die Gesetze der Gewinner: Erfolg und ein erfülltes Leben [Link](http://amzn.to/2eZtu2D)
 - [x] NLP - das WorkBook [Link](https://www.amazon.de/gp/product/3935767579/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3935767579&linkId=748dc27304d220905f40de8e196d053f)
 - [ ] Psychology Of Winning [Link](http://amzn.to/2xcmjL2)
 
