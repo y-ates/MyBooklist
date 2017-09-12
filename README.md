@@ -18,6 +18,7 @@ Languages: German, English, Turkish
 
 ## Philosophy
 - [ ] Cile [Link](http://amzn.to/2w3OlJk)
+- [ ] Memleketimden Insan Manzaralari [Link](http://amzn.to/2w3ziiV)
 - [x] Menon [Link](https://www.amazon.de/gp/product/1484049829/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=1484049829&linkId=04a38cff5dfded7026aa33d48687884b)
 - [ ] Mesnevi-i Serif: Özel Baski - Tam Metin [Link](http://amzn.to/2eMN3LE)
 
