@@ -56,6 +56,7 @@ Languages: German, English, Turkish
 
 
 ## Strategy, Decision Making
+- [x] Die Kunst des Krieges [Link](http://amzn.to/2jaqCRJ)
 - [ ] Der Logikverführer: Schlussfolgerungen für alle Lebenslagen [Link](https://www.amazon.de/gp/product/B009625JDQ/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=B009625JDQ&linkId=f3642cce75074de986bf76b151f20d5f)
 
 
@@ -64,7 +65,6 @@ Languages: German, English, Turkish
 - [x] Der Architekt des Sultans [Link](http://amzn.to/2vRPALL)
 - [x] Der Graf von Monte Christo [Link](http://amzn.to/2wOvNdv)
 - [x] Der Pate [Link](https://www.amazon.de/gp/product/3499231107/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3499231107&linkId=26a26be4e65cd42a08e00431767fd3e8)
-- [x] Die Kunst des Krieges [Link](http://amzn.to/2jaqCRJ)
 - [ ] Hacking Europe: From Computer Cultures to Demoscenes [Link](http://amzn.to/2jjrZxA)
 - [x] Kamasutra: Das indische Lehrbuch der Liebe [Link](http://amzn.to/2japnC3)
 - [x] Les Miserables [Link](http://amzn.to/2jcNkbN)
