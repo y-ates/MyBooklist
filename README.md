@@ -35,6 +35,8 @@ Languages: German, English, Turkish
 
 ## Chess
 - [ ] Wie man im Schach gewinnt: 10 goldene Faustregeln [Link](http://amzn.to/2yhwiw6)
+- [ ] Das Schachspiel. Die Originalfassung [Link](http://amzn.to/2jORwPr)
+
 ## Engineering, Programming
 - [x] C++ von A bis Z: Das umfassende Handbuch (Galileo Computing) [Link](http://amzn.to/2j9L98Z)
 - [ ] CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide and Official ISC2 Practice Tests Kit [Link](http://amzn.to/2jiVIXD)
