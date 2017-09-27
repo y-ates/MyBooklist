@@ -56,6 +56,7 @@ Languages: German, English, Turkish
 
 ## Making Money
 - [x] Elon Musk : How the Billionaire CEO of Spacex and Tesla is Shaping Our Future [Link](https://www.amazon.de/gp/product/0753557525/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0753557525&linkId=9f565aab7fd997545c455e9c67b02fd2)
+- [ ] Reicher als die Geissens [Link](http://amzn.to/2xwqv9e)
 - [x] Rich Dad Poor Dad [Link](https://www.amazon.de/gp/product/3898798828/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3898798828&linkId=c2844800d7797f222bad59091dca9043)
 - [ ] The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich [Link](http://amzn.to/2hbfpvR)
 - [ ] The Psychology of Winning: Ten Qualities of a Total Winner [Link](http://amzn.to/2haOTCY)
