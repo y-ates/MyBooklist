@@ -34,7 +34,7 @@ Languages: German, English, Turkish
 
 
 ## Chess
-- [ ] Wie man im Schach gewinnt: 10 goldene Faustregeln [Link](http://amzn.to/2yhwiw6)
+- [x] Wie man im Schach gewinnt: 10 goldene Faustregeln [Link](http://amzn.to/2yhwiw6)
 - [ ] Das Schachspiel. Die Originalfassung [Link](http://amzn.to/2jORwPr)
 
 ## Engineering, Programming
