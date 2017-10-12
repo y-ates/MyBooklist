@@ -67,6 +67,7 @@ Languages: German, English, Turkish
 - [x] Die Kunst des Krieges [Link](http://amzn.to/2jaqCRJ)
 - [ ] Der Logikverführer: Schlussfolgerungen für alle Lebenslagen [Link](https://www.amazon.de/gp/product/B009625JDQ/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=B009625JDQ&linkId=f3642cce75074de986bf76b151f20d5f)
 - [ ] Red Team: How to Succeed By Thinking Like the Enemy [Link](http://amzn.to/2frZ8CP)
+- [ ] The Organized Mind: Thinking Straight in the Age of Information Overload [Link](http://amzn.to/2yeMNdC)
 
 
 ## Other
