@@ -78,6 +78,7 @@ Languages: German, English, Turkish
 - [x] Der Pate [Link](https://www.amazon.de/gp/product/3499231107/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3499231107&linkId=26a26be4e65cd42a08e00431767fd3e8)
 - [x] Geheime Botschaften. Die Kunst der Verschlüsselung von der Antike bis in die Zeiten des Internet. [Link](http://amzn.to/2i7cHvM)
 - [ ] Hacking Europe: From Computer Cultures to Demoscenes [Link](http://amzn.to/2jjrZxA)
+- [ ] Handbuch des Kriegers des Lichts [Link](http://amzn.to/2l4WFn5)
 - [x] Kamasutra: Das indische Lehrbuch der Liebe [Link](http://amzn.to/2japnC3)
 - [x] Les Miserables [Link](http://amzn.to/2jcNkbN)
 - [x] Romeo und Julia. Tragödie in fünf Aufzügen [Link](http://amzn.to/2vS8IJj)
