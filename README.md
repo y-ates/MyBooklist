@@ -13,6 +13,7 @@ Languages: German, English, Turkish
 - [x] Fermats letzter Satz: Die abenteuerliche Geschichte eines mathematischen Rätsels [Link](http://amzn.to/2eWzhG2)
 - [x] Geheime Botschaften. Die Kunst der Verschlüsselung von der Antike bis in die Zeiten des Internet. [Link](http://amzn.to/2eXC5mg)
 - [x] Gödel, Escher, Bach - ein Endloses Geflochtenes Band [Link](http://amzn.to/2wTo1yG)
+- [ ] Nullen machen Einsen groß: Mathe-Tricks für alle Lebenslagen [Link](http://amzn.to/2inscvT)
 - [ ] Theoretische Informatik - kurz gefasst [Link](http://amzn.to/2xQOBsr)
 - [ ] The Block Cipher Companion (Information Security and Cryptography) [Link](http://amzn.to/2wJhkRs)
 
