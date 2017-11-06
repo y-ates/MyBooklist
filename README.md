@@ -45,6 +45,7 @@ Languages: German, English, Turkish
 - [ ] EW 101: A First Course in Electronic Warfare [Link](http://amzn.to/2w3uBph)
 - [x] Hacking: Die Kunst des Exploits [Link](http://amzn.to/2eTVzZ7)
 - [x] PHP 7 und MySQL: Von den Grundlagen bis zur professionellen Programmierung [Link](http://amzn.to/2j9Z3bf)
+- [ ] The Art of Electronics [Link](http://amzn.to/2j3ixP2)
 - [x] Understanding Cryptography: A Textbook for Students and Practitioners [Link](http://amzn.to/2xV0zkL)
 
 
