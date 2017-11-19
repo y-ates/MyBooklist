@@ -42,6 +42,7 @@ Languages: German, English, Turkish
 ## Engineering, Programming
 - [x] C++ von A bis Z: Das umfassende Handbuch (Galileo Computing) [Link](http://amzn.to/2j9L98Z)
 - [ ] CISSP (ISC)2 Certified Information Systems Security Professional Official Study Guide and Official ISC2 Practice Tests Kit [Link](http://amzn.to/2jiVIXD)
+- [ ] Computer Science Distilled: Learn the Art of Solving Computational Problems [Link](http://amzn.to/2hLyc5s)
 - [ ] EW 101: A First Course in Electronic Warfare [Link](http://amzn.to/2w3uBph)
 - [x] Hacking: Die Kunst des Exploits [Link](http://amzn.to/2eTVzZ7)
 - [x] PHP 7 und MySQL: Von den Grundlagen bis zur professionellen Programmierung [Link](http://amzn.to/2j9Z3bf)
