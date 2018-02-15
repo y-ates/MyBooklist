@@ -15,7 +15,7 @@ Languages: German, English, Turkish
 - [x] Gödel, Escher, Bach - ein Endloses Geflochtenes Band [Link](http://amzn.to/2wTo1yG)
 - [ ] Nullen machen Einsen groß: Mathe-Tricks für alle Lebenslagen [Link](http://amzn.to/2inscvT)
 - [ ] Theoretische Informatik - kurz gefasst [Link](http://amzn.to/2xQOBsr)
-- [ ] The Block Cipher Companion (Information Security and Cryptography) [Link](http://amzn.to/2wJhkRs)
+- [x] The Block Cipher Companion (Information Security and Cryptography) [Link](http://amzn.to/2wJhkRs)
 
 
 ## Philosophy
