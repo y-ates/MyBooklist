@@ -9,7 +9,7 @@ Languages: German, English, Turkish
 
 ## Math
 - [x] Elementare und Algebraische Zahlentheorie [Link](https://www.amazon.de/gp/product/3834812560/ref=as_li_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3834812560&linkCode=as2&tag=yakupates-21&linkId=475c5584544049a7f2be580dcc2deb57)
-- [ ] Elliptische Kurven in der Kryptographie [Link](http://amzn.to/2yzU87u)
+- [x] Elliptische Kurven in der Kryptographie [Link](http://amzn.to/2yzU87u)
 - [x] Fermats letzter Satz: Die abenteuerliche Geschichte eines mathematischen Rätsels [Link](http://amzn.to/2eWzhG2)
 - [x] Geheime Botschaften. Die Kunst der Verschlüsselung von der Antike bis in die Zeiten des Internet. [Link](http://amzn.to/2eXC5mg)
 - [x] Gödel, Escher, Bach - ein Endloses Geflochtenes Band [Link](http://amzn.to/2wTo1yG)
