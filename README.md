@@ -57,8 +57,6 @@ Languages: German, English, Turkish
 - [ ] Psychology Of Winning [Link](http://amzn.to/2xcmjL2)
 - [ ] The 33 Strategies of War. [Link](http://amzn.to/2kF6OXu)
 - [x] Wie man Freunde gewinnt: Die Kunst, beliebt und einflussreich zu werden [Link](http://amzn.to/2f0oBq1)
-- [x] Handbuch des Kriegers des Lichts [Link](https://amzn.to/2K4LdE2)
-- [x] Sei wie ein Fluß, der still die Nacht durchströmt [Link](https://amzn.to/2K8Lc1R)
 
 
 ## Making Money
@@ -84,6 +82,7 @@ Languages: German, English, Turkish
 - [x] Geheime Botschaften. Die Kunst der Verschlüsselung von der Antike bis in die Zeiten des Internet. [Link](http://amzn.to/2i7cHvM)
 - [ ] Hacking Europe: From Computer Cultures to Demoscenes [Link](http://amzn.to/2jjrZxA)
 - [ ] Handbuch des Kriegers des Lichts [Link](http://amzn.to/2l4WFn5)
+- [x] Sei wie ein Fluß, der still die Nacht durchströmt [Link](https://amzn.to/2K8Lc1R)
 - [x] Kamasutra: Das indische Lehrbuch der Liebe [Link](http://amzn.to/2japnC3)
 - [x] Les Miserables [Link](http://amzn.to/2jcNkbN)
 - [x] Romeo und Julia. Tragödie in fünf Aufzügen [Link](http://amzn.to/2vS8IJj)
