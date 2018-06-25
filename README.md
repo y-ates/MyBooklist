@@ -58,7 +58,7 @@ Languages: German, English, Turkish
 - [ ] The 33 Strategies of War. [Link](http://amzn.to/2kF6OXu)
 - [x] Wie man Freunde gewinnt: Die Kunst, beliebt und einflussreich zu werden [Link](http://amzn.to/2f0oBq1)
 - [x] Handbuch des Kriegers des Lichts [Link](https://amzn.to/2K4LdE2)
-- [ ] Sei wie ein Fluß, der still die Nacht durchströmt [Link](https://amzn.to/2K8Lc1R)
+- [x] Sei wie ein Fluß, der still die Nacht durchströmt [Link](https://amzn.to/2K8Lc1R)
 
 
 ## Making Money
