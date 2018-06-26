@@ -88,4 +88,5 @@ Languages: German, English, Turkish
 - [x] Romeo und Julia. Tragödie in fünf Aufzügen [Link](http://amzn.to/2vS8IJj)
 - [x] Papillon [Link](http://amzn.to/2vSPymG)
 - [ ] Leonardo da Vinci: Die Biographie [Link](https://amzn.to/2Km1cNr)
+- [ ] Steve Jobs: Die autorisierte Biografie des Apple-Gründers [Link](https://amzn.to/2tGuCLE)
 
