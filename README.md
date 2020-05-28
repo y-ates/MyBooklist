@@ -49,6 +49,7 @@ Languages: German, English, Turkish
 - [ ] The Art of Electronics [Link](http://amzn.to/2j3ixP2)
 - [x] Understanding Cryptography: A Textbook for Students and Practitioners [Link](http://amzn.to/2xV0zkL)
 - [x] The Web Application Hacker's Handbook: Discovering and Exploiting 
+- [ ] The Art of Software Security Assessment
 
 ## Personal Growth
 - [x] Die 7 Wege zur Effektivität: Prinzipien für persönlichen und beruflichen Erfolg [Link](http://amzn.to/2y12mVC)
