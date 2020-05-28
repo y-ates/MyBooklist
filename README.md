@@ -48,7 +48,7 @@ Languages: German, English, Turkish
 - [x] PHP 7 und MySQL: Von den Grundlagen bis zur professionellen Programmierung [Link](http://amzn.to/2j9Z3bf)
 - [ ] The Art of Electronics [Link](http://amzn.to/2j3ixP2)
 - [x] Understanding Cryptography: A Textbook for Students and Practitioners [Link](http://amzn.to/2xV0zkL)
-
+- [x] The Web Application Hacker's Handbook: Discovering and Exploiting 
 
 ## Personal Growth
 - [x] Die 7 Wege zur Effektivität: Prinzipien für persönlichen und beruflichen Erfolg [Link](http://amzn.to/2y12mVC)
