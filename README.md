@@ -33,7 +33,7 @@ Languages: German, English, Turkish
 
 
 ## Science
-
+- [x] Thinking, Fast and Slow
 
 ## Chess
 - [x] Wie man im Schach gewinnt: 10 goldene Faustregeln [Link](http://amzn.to/2yhwiw6)
