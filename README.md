@@ -50,6 +50,7 @@ Languages: German, English, Turkish
 - [x] Understanding Cryptography: A Textbook for Students and Practitioners [Link](http://amzn.to/2xV0zkL)
 - [x] The Web Application Hacker's Handbook: Discovering and Exploiting 
 - [ ] The Art of Software Security Assessment
+- [x] Hacking: The Art of Exploitation
 
 ## Personal Growth
 - [x] Die 7 Wege zur Effektivität: Prinzipien für persönlichen und beruflichen Erfolg [Link](http://amzn.to/2y12mVC)
