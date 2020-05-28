@@ -51,6 +51,12 @@ Languages: German, English, Turkish
 - [x] The Web Application Hacker's Handbook: Discovering and Exploiting 
 - [ ] The Art of Software Security Assessment
 - [x] Hacking: The Art of Exploitation
+- [ ] The Art of Invisibility
+- [ ] Practical Malware Analysis
+- [ ] Social Engineering: The Science of Human Hacking
+- [ ] The CERT Guide to Insider Threats
+- [ ] Hacking Exposed 7: Network Security Secrets and Solutions
+- [ ] Threat Modeling
 
 ## Personal Growth
 - [x] Die 7 Wege zur Effektivität: Prinzipien für persönlichen und beruflichen Erfolg [Link](http://amzn.to/2y12mVC)
