@@ -59,6 +59,7 @@ Languages: German, English, Turkish
 - [ ] The 33 Strategies of War. [Link](http://amzn.to/2kF6OXu)
 - [x] Wie man Freunde gewinnt: Die Kunst, beliebt und einflussreich zu werden [Link](http://amzn.to/2f0oBq1)
 
+- [x] Can't Hurt Me: Master Your Mind and Defy the Odds
 
 ## Making Money
 - [x] Elon Musk : How the Billionaire CEO of Spacex and Tesla is Shaping Our Future [Link](https://www.amazon.de/gp/product/0753557525/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=0753557525&linkId=9f565aab7fd997545c455e9c67b02fd2)
