@@ -29,7 +29,7 @@ Languages: German, English, Turkish
 
 
 ## Social Skills
-- [ ] Menschen lesen: Ein FBI-Agent erklärt, wie man Körpersprache entschlüsselt [Link](https://www.amazon.de/gp/product/3868822135/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3868822135&linkId=6cffdf144533d6ce26d374bee4b8b4fd)
+- [x] Menschen lesen: Ein FBI-Agent erklärt, wie man Körpersprache entschlüsselt [Link](https://www.amazon.de/gp/product/3868822135/ref=as_li_tl?ie=UTF8&tag=yakupates-21&camp=1638&creative=6742&linkCode=as2&creativeASIN=3868822135&linkId=6cffdf144533d6ce26d374bee4b8b4fd)
 
 
 ## Science
